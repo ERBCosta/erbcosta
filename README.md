@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ERBCosta/erbcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Estudante de Análise de Sistemas 3º Semestre. Unopar/EAD
+- 🔭 Estudante de Análise de Sistemas 3º Semestre. Unopar/EAD.
 - 🌱 Aprendendo JAVA com focom em mobile - Estudando AndroidStudio
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👍 Cursos: Professor Marcos Maddo e Tiago Aguiar.
+- 💬 Procurando uma vaga de estágio ou trainee remoto voltada para área de desenvolvimento.
