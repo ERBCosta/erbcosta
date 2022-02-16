@@ -14,6 +14,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="ErbCosta-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="ErbCosta-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"> 
+  <img align="center" alt="ErbCosta-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="ErbCosta-JAVA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"> 
   </div>
   
