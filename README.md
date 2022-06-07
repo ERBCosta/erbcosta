@@ -1,8 +1,8 @@
-### Olá! Meu nome é Elton Costa, seja bem vindo ao meu Github! 👋
+### Olá! Bem vindo(a) ao meu Github! 👋
 
-- 🔭 Estudante de <b>Análise de Sistemas 3º Semestre.</b> Unopar/EAD.
-- 🌱t Aprendendo <b>JAVA</b> com focm em mobile - Estudando <b>AndroidStudio</b>
-- 👍 Cursos: Professor Marcos Maddo e Tiago Aguiar.
+- 🔭 Estudante de <b>Análise de Sistemas 4º Semestre.</b> Unopar/EAD.
+- 🌱t Aprendendo <b>JAVA</b> com foco em mobile - Estudando <b>AndroidStudio</b>
+- 👍 Cursos: Professor Marcos Maddo / Tiago Aguiar / Nélio Alves.
 - 💬 Procurando uma vaga de estágio ou trainee remoto voltada para área de desenvolvimento.
 
 <div align="center">
