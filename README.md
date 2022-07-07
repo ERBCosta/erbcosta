@@ -12,7 +12,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="ErbCosta-Kotlin" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="ErbCosta-Kotlin" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-plain-wordmark.svg">
   <img align="center" alt="ErbCosta-Kotlin" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"> 
   <img align="center" alt="ErbCosta-Kotlin" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="ErbCosta-Kotlin" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"> 
