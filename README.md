@@ -1,7 +1,7 @@
 ### Olá! Bem vindo(a) ao meu Github! 👋
 
 - 🔭 Estudante de <b>Análise de Sistemas 4º Semestre.</b> Unopar/EAD.
-- 🌱t Aprendendo <b>JAVA</b> com foco em mobile - Estudando <b>AndroidStudio</b>
+- 🌱t Aprendendo <b>KOTLIN</b> foco em mobile - Estudando <b>AndroidStudio</b>
 - 👍 Cursos: Professor Marcos Maddo / Tiago Aguiar / Nélio Alves.
 - 💬 Procurando uma vaga de estágio ou trainee remoto voltada para área de desenvolvimento.
 
