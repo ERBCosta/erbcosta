@@ -2,9 +2,9 @@
 
 - 🔭 Cursando pós em <b>Desenvolvimento de aplicações mobile</b> Unopar/EAD.
 - 🔭 Formado em <b>Análise de Sistemas 4º Semestre.</b> Unopar/EAD.
-- 🌱t Aprendendo <b>KOTLIN</b> foco em mobile - Estudando <b>AndroidStudio</b>
-- 👍 Cursos: Professor Marcos Maddo / Tiago Aguiar / Nélio Alves.
-- 💬 Procurando uma vaga de estágio ou trainee remoto voltada para área de suporte e ou desenvolvimento.
+- 🌱 Estudando <b>KOTLIN</b> e <b>AndroidStudio</b>
+- 👍 Cursos: Android Express: Tiago Aguiar / Desenvolvimento Android: Professor Marcos Maddo / Programação orientada a objeto: Nélio Alves.
+- 💬 Procurando vaga remoto voltada para área de atendimento ao cliente, suporte e ou desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/erbcosta">
